@@ -3,11 +3,11 @@ My MOD "Blue Archive Azusa Skin MOD For Shimakaze" For World of Warships
 
 This mod changes the skin of Shimakaze to The Blue Archive Azusa.
 
-<<Skin preview>>
+Skin preview
 
 https://www.bilibili.com/video/BV15Y411R7S2/
 
-<<Download link>>
+Download link
 https://drive.google.com/drive/folders/14NKrijmU4Ke5YSJ1rafKVLipLEtQjxmV?usp=share_link
 
 2.Unzip the zip file and open.
